@@ -1,0 +1,8 @@
+res://main/main.tscn
+res://main/board/board.tscn
+res://main/seed/seed.tscn
+res://main/house/house.tscn
+res://main/hand/hand.tscn
+res://main/move.tscn
+res://main/move_manager.tscn
+res://main/board/board_half.tscn
